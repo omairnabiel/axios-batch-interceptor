@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "name": "batch-requests",
+  "version": "1.0.0",
+  "description": "axios request batcher",
+  "main": "api-client.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
